@@ -10,6 +10,8 @@ namespace BlogManagement.Core.Domain.Posts
     public class Post: BaseEntity
     {
         public int BlogId { get; set; }
-
+        public int AuthorId{ get; set; }
+        public string Title { get; set; }
+        public string Content { get; set; }
     }
 }
