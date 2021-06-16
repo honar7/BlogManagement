@@ -9,6 +9,8 @@ namespace BlogManagement.Core.Domain.Comments
 {
     public class Comment: BaseEntity
     {
-
+        public int PostId { get; set; }
+        public int UserId { get; set; }
+        public string Message { get; set; }        
     }
 }
