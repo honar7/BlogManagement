@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Projects\\GolrangAspNetCore5-main\\FinalExam\\BlogManagement\\BlogManagement.Infra.Data.Sql\\BlogManagement.Infra.Data.Sql.csproj": {}
+  },
+  "projects": {
+    "F:\\Projects\\GolrangAspNetCore5-main\\FinalExam\\BlogManagement\\BlogManagement.Core.Domain\\BlogManagement.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projects\\GolrangAspNetCore5-main\\FinalExam\\BlogManagement\\BlogManagement.Core.Domain\\BlogManagement.Core.Domain.csproj",
+        "projectName": "BlogManagement.Core.Domain",
+        "projectPath": "F:\\Projects\\GolrangAspNetCore5-main\\FinalExam\\BlogManagement\\BlogManagement.Core.Domain\\BlogManagement.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\Kourosh\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\GolrangAspNetCore5-main\\FinalExam\\BlogManagement\\BlogManagement.Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kourosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\Projects\\GolrangAspNetCore5-main\\FinalExam\\BlogManagement\\Golrang.Framework\\Golrang.Framework.csproj": {
+                "projectPath": "F:\\Projects\\GolrangAspNetCore5-main\\FinalExam\\BlogManagement\\Golrang.Framework\\Golrang.Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Projects\\GolrangAspNetCore5-main\\FinalExam\\BlogManagement\\BlogManagement.Infra.Data.Sql\\BlogManagement.Infra.Data.Sql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projects\\GolrangAspNetCore5-main\\FinalExam\\BlogManagement\\BlogManagement.Infra.Data.Sql\\BlogManagement.Infra.Data.Sql.csproj",
+        "projectName": "BlogManagement.Infra.Data.Sql",
+        "projectPath": "F:\\Projects\\GolrangAspNetCore5-main\\FinalExam\\BlogManagement\\BlogManagement.Infra.Data.Sql\\BlogManagement.Infra.Data.Sql.csproj",
+        "packagesPath": "C:\\Users\\Kourosh\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\GolrangAspNetCore5-main\\FinalExam\\BlogManagement\\BlogManagement.Infra.Data.Sql\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kourosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\Projects\\GolrangAspNetCore5-main\\FinalExam\\BlogManagement\\BlogManagement.Core.Domain\\BlogManagement.Core.Domain.csproj": {
+                "projectPath": "F:\\Projects\\GolrangAspNetCore5-main\\FinalExam\\BlogManagement\\BlogManagement.Core.Domain\\BlogManagement.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Projects\\GolrangAspNetCore5-main\\FinalExam\\BlogManagement\\Golrang.Framework\\Golrang.Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projects\\GolrangAspNetCore5-main\\FinalExam\\BlogManagement\\Golrang.Framework\\Golrang.Framework.csproj",
+        "projectName": "Golrang.Framework",
+        "projectPath": "F:\\Projects\\GolrangAspNetCore5-main\\FinalExam\\BlogManagement\\Golrang.Framework\\Golrang.Framework.csproj",
+        "packagesPath": "C:\\Users\\Kourosh\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\GolrangAspNetCore5-main\\FinalExam\\BlogManagement\\Golrang.Framework\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kourosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

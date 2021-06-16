@@ -1,0 +1,15 @@
+F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.Domain\bin\Release\net5.0\BlogManagement.Core.Domain.deps.json
+F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.Domain\bin\Release\net5.0\BlogManagement.Core.Domain.dll
+F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.Domain\bin\Release\net5.0\ref\BlogManagement.Core.Domain.dll
+F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.Domain\bin\Release\net5.0\BlogManagement.Core.Domain.pdb
+F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.Domain\bin\Release\net5.0\Golrang.Framework.dll
+F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.Domain\bin\Release\net5.0\Golrang.Framework.pdb
+F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.Domain\obj\Release\net5.0\BlogManagement.Core.Domain.csprojAssemblyReference.cache
+F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.Domain\obj\Release\net5.0\BlogManagement.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.Domain\obj\Release\net5.0\BlogManagement.Core.Domain.AssemblyInfoInputs.cache
+F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.Domain\obj\Release\net5.0\BlogManagement.Core.Domain.AssemblyInfo.cs
+F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.Domain\obj\Release\net5.0\BlogManagement.Core.Domain.csproj.CoreCompileInputs.cache
+F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.Domain\obj\Release\net5.0\BlogManagement.Core.Domain.csproj.CopyComplete
+F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.Domain\obj\Release\net5.0\BlogManagement.Core.Domain.dll
+F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.Domain\obj\Release\net5.0\ref\BlogManagement.Core.Domain.dll
+F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.Domain\obj\Release\net5.0\BlogManagement.Core.Domain.pdb
