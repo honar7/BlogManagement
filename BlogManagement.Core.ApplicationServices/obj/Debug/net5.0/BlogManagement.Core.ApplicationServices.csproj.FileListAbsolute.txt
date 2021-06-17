@@ -15,20 +15,3 @@ G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.
 G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\obj\Debug\net5.0\BlogManagement.Core.ApplicationServices.dll
 G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\obj\Debug\net5.0\ref\BlogManagement.Core.ApplicationServices.dll
 G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\obj\Debug\net5.0\BlogManagement.Core.ApplicationServices.pdb
-F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\bin\Debug\net5.0\BlogManagement.Core.ApplicationServices.deps.json
-F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\bin\Debug\net5.0\BlogManagement.Core.ApplicationServices.dll
-F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\bin\Debug\net5.0\ref\BlogManagement.Core.ApplicationServices.dll
-F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\bin\Debug\net5.0\BlogManagement.Core.ApplicationServices.pdb
-F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\bin\Debug\net5.0\BlogManagement.Core.Domain.dll
-F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\bin\Debug\net5.0\Golrang.Framework.dll
-F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\bin\Debug\net5.0\BlogManagement.Core.Domain.pdb
-F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\bin\Debug\net5.0\Golrang.Framework.pdb
-F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\obj\Debug\net5.0\BlogManagement.Core.ApplicationServices.csprojAssemblyReference.cache
-F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\obj\Debug\net5.0\BlogManagement.Core.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
-F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\obj\Debug\net5.0\BlogManagement.Core.ApplicationServices.AssemblyInfoInputs.cache
-F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\obj\Debug\net5.0\BlogManagement.Core.ApplicationServices.AssemblyInfo.cs
-F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\obj\Debug\net5.0\BlogManagement.Core.ApplicationServices.csproj.CoreCompileInputs.cache
-F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\obj\Debug\net5.0\BlogManagement.Core.ApplicationServices.csproj.CopyComplete
-F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\obj\Debug\net5.0\BlogManagement.Core.ApplicationServices.dll
-F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\obj\Debug\net5.0\ref\BlogManagement.Core.ApplicationServices.dll
-F:\Projects\GolrangAspNetCore5-main\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\obj\Debug\net5.0\BlogManagement.Core.ApplicationServices.pdb
